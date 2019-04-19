@@ -1,3 +1,3 @@
-<img src="./igor-matheus.png" style="display:block;margin-left:auto;margin-right:auto;"></img>
+<p align="center"><img src="./igor-matheus.png"></img></p>
 
 # ds-notebooks
