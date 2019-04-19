@@ -10,7 +10,7 @@
 #### Environment
 * python == 3.7.3
 * jupyterlab == 0.35.4
-#### Notebook
+#### Format
 * Jupyter Notebook (.ipynb)
 #### Modules
 * matplotlib == 3.0.3
